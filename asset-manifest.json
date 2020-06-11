@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ihsrah/static/css/main.1e1e8b78.chunk.css",
+    "main.js": "/ihsrah/static/js/main.b668e5e9.chunk.js",
+    "main.js.map": "/ihsrah/static/js/main.b668e5e9.chunk.js.map",
+    "runtime-main.js": "/ihsrah/static/js/runtime-main.4ebb284d.js",
+    "runtime-main.js.map": "/ihsrah/static/js/runtime-main.4ebb284d.js.map",
+    "static/js/2.49304e1c.chunk.js": "/ihsrah/static/js/2.49304e1c.chunk.js",
+    "static/js/2.49304e1c.chunk.js.map": "/ihsrah/static/js/2.49304e1c.chunk.js.map",
+    "index.html": "/ihsrah/index.html",
+    "precache-manifest.058d8536c8f052c657206f009680c1f1.js": "/ihsrah/precache-manifest.058d8536c8f052c657206f009680c1f1.js",
+    "service-worker.js": "/ihsrah/service-worker.js",
+    "static/css/main.1e1e8b78.chunk.css.map": "/ihsrah/static/css/main.1e1e8b78.chunk.css.map",
+    "static/js/2.49304e1c.chunk.js.LICENSE.txt": "/ihsrah/static/js/2.49304e1c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ihsrah/static/media/Winterlady.fb3e8918.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ebb284d.js",
+    "static/js/2.49304e1c.chunk.js",
+    "static/css/main.1e1e8b78.chunk.css",
+    "static/js/main.b668e5e9.chunk.js"
+  ]
+}
