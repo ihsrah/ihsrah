@@ -35,3 +35,23 @@
   font-size: 80px;
   font-weight: 10;
 }
+
+.Social {
+  position: fixed;
+  bottom: 20px;
+  right: 10px;
+}
+
+.List {
+  list-style-type: none;
+}
+
+li {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+li :hover {
+  color: black;
+}
